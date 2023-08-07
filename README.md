@@ -1,2 +1,2 @@
-# Password-changer
+# Password-generator
 homework
