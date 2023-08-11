@@ -3,7 +3,7 @@
 https://jcwarwick.github.io/Password-generator/
 
 
-In this project I added the elements needed to make the existing site work correctly. i demoonstrated proper use and understanding of 
+In this project I added the elements needed to make the existing site work correctly. i demoonstrated proper use and understanding of the following elements of java script.
 
 - if statments, 
 
@@ -16,3 +16,4 @@ In this project I added the elements needed to make the existing site work corre
 - add element by id 
 
 - and how to use the Var element correctly 
+
